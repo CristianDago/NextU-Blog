@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	background: url("../img/fondo.jpg");
+	background-size:cover;
+	background-attachment: fixed;
+	
+}
+
+img{
+	max-width: 100%;
+}
+
+.icon {
+	
+	margin-bottom:20px;
+}
+
+.padding{
+	padding: 20px;
+}
+
+
+.barra {
+	height:20px!important;
+}
+
+@media screen and (max-width: 992px)
+	
+{
+	.barra {display:none;}	
+
+	
+}

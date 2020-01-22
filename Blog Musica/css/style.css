@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+a.nav-link {
+	color:#ffffff;
+}
+
+a.nav-link:hover{
+	
+	color:#dc3545;
+}
+
+
+li.nav-item:hover {
+	background: #ffffff;
+}
+
+
+.redes {
+	font-size:25px;
+	color:#dc3545;
+}
+
+.redes:hover {
+	
+	color:#ffc107;
+}
+
+img{
+	max-width: 100%;
+}
+
+
+.icono-usuario{
+	font-size:35px;
+}
+
+article {
+	
+	padding:25px 0px;
+	border-bottom: .8px dashed #000000;
+}
